@@ -19,7 +19,7 @@ export default () => {
       <div>
         <p>
         <Link href="/Strona1" style={{ color: 'red' }}>
-            Link do następnej strony
+            Link do następnej strony 22222222222222222222222222
           </Link>{' '}
         </p>
       </div>
